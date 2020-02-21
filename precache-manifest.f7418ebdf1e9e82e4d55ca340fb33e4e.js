@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3085de17f1a1cc579fc90d8c311a873",
+    "revision": "92440e8156f6f2c0d28be1a3e77eca0b",
     "url": "/yarn-projects/index.html"
   },
   {
-    "revision": "17732131f3d4f24a7c06",
-    "url": "/yarn-projects/static/css/main.ad4528e0.chunk.css"
+    "revision": "2477941eda14e2374805",
+    "url": "/yarn-projects/static/css/main.af3b197e.chunk.css"
   },
   {
     "revision": "8f2fd96fa30142cdb676",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yarn-projects/static/js/2.361ff8ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "17732131f3d4f24a7c06",
-    "url": "/yarn-projects/static/js/main.36218157.chunk.js"
+    "revision": "2477941eda14e2374805",
+    "url": "/yarn-projects/static/js/main.9d99c9d6.chunk.js"
   },
   {
     "revision": "3604db376ad44c7826ce",
