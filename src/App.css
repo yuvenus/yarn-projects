@@ -8,3 +8,13 @@ body {
   background-image: url('/yarn-projects/images/light_wool_@2X.png');
   background-repeat: repeat;
 }
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+:root {
+  --header-color: rgba(105, 105, 105, 0.7);
+  --hover-color: #e0e0e0;
+}
