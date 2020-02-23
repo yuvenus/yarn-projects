@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/yarn-projects/static/css/main.7e253079.chunk.css",
-    "main.js": "/yarn-projects/static/js/main.0f53c353.chunk.js",
-    "main.js.map": "/yarn-projects/static/js/main.0f53c353.chunk.js.map",
+    "main.js": "/yarn-projects/static/js/main.e55efe24.chunk.js",
+    "main.js.map": "/yarn-projects/static/js/main.e55efe24.chunk.js.map",
     "runtime-main.js": "/yarn-projects/static/js/runtime-main.9ff714a9.js",
     "runtime-main.js.map": "/yarn-projects/static/js/runtime-main.9ff714a9.js.map",
-    "static/js/2.fbde0d18.chunk.js": "/yarn-projects/static/js/2.fbde0d18.chunk.js",
-    "static/js/2.fbde0d18.chunk.js.map": "/yarn-projects/static/js/2.fbde0d18.chunk.js.map",
+    "static/js/2.dd111349.chunk.js": "/yarn-projects/static/js/2.dd111349.chunk.js",
+    "static/js/2.dd111349.chunk.js.map": "/yarn-projects/static/js/2.dd111349.chunk.js.map",
     "index.html": "/yarn-projects/index.html",
-    "precache-manifest.3572c1cfd7e40cd3ba018fa4c162c6d0.js": "/yarn-projects/precache-manifest.3572c1cfd7e40cd3ba018fa4c162c6d0.js",
+    "precache-manifest.596adca0395bb3c328ac205d949ced7a.js": "/yarn-projects/precache-manifest.596adca0395bb3c328ac205d949ced7a.js",
     "service-worker.js": "/yarn-projects/service-worker.js",
     "static/css/main.7e253079.chunk.css.map": "/yarn-projects/static/css/main.7e253079.chunk.css.map",
-    "static/js/2.fbde0d18.chunk.js.LICENSE.txt": "/yarn-projects/static/js/2.fbde0d18.chunk.js.LICENSE.txt"
+    "static/js/2.dd111349.chunk.js.LICENSE.txt": "/yarn-projects/static/js/2.dd111349.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9ff714a9.js",
-    "static/js/2.fbde0d18.chunk.js",
+    "static/js/2.dd111349.chunk.js",
     "static/css/main.7e253079.chunk.css",
-    "static/js/main.0f53c353.chunk.js"
+    "static/js/main.e55efe24.chunk.js"
   ]
 }
