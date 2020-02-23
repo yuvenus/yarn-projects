@@ -27,7 +27,7 @@ class Header extends Component {
             {this.state.expanded && 
                 <p>This is my collection of stuffed animals I've crocheted/knitted (mostly the former) for friends 
                     and coworkers so that they would have a friend to help them through stressful times. 
-                    The secondary goal was to shrink my yarn collection but I ended up buying more yarn instead! 😂</p>
+                    The secondary goal was to shrink my yarn collection but I ended up buying more yarn instead!</p>
             }  
         </div>
     }
