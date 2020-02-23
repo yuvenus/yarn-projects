@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "./Header.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faInfoCircle } from '@fortawesome/free-solid-svg-icons';
-import { faSort } from '@fortawesome/free-solid-svg-icons';
+// import { faSort } from '@fortawesome/free-solid-svg-icons';
 
 class Header extends Component {
     state = {
